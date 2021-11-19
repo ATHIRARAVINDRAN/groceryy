@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    background-image: url("./image/groc.jpg");
+    background-size: cover;    
+    background-position:  left;
+    background-attachment: fixed;
+    text-align: center;   
+    color:black;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+th, td, p, input, h3 {
+    font:'Segoe UI';
+    text-align: center;
+}
+table, th, td {
+    text-align: center;
+    border: solid 1px black;
+    /* font-weight: bolder; */
+    /* font-size: xx-large; */
+    margin-bottom: 20px;
+    margin-left: 300px;
+   
+}
